@@ -1,11 +1,11 @@
 {
     "name": "Nicolas DUCHENE",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "occupation": "Application designer and developer",
+    "location": "Annemasse, FRANCE",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
+    "pronouns": "He/him",
     "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
+    "telephone": "+33 6 50 220 200",
     "website": "https://annaquincey.dev",
     "skills": [
         "HTML",
@@ -14,31 +14,28 @@
         "UI Design",
         "React",
         "Git"
+        "Scrum"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "French",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "Septume",
+            "url": "https://github.com/Septume"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "DUCHÊNE Nicolas",
+            "url": "https://www.linkedin.com/in/nicolas-duch%C3%AAne-928414a0/"
         }
     ]
 }
